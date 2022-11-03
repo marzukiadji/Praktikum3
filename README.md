@@ -1,5 +1,5 @@
 # Praktikum3
-### Nama    : Akhmad Adjie Marzuki  
+### NAMA    : AKHMAD ADJIE MARZUKI  
 ### NIM     : 312110564  
 ### KELAS   : TI.21.C2  
 ### MATKUL  : PEMROGRAMMAN BERBASIS OBJECT  
